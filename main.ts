@@ -4,6 +4,7 @@
 // One line of software error copy, at most 200 characters, that tells the
 // user the brutal truth about what went wrong and makes them laugh on the way.
 // Writes exactly the winning line to /output/entry.txt.
+// Revision note (2026-11-24): line final — 100 chars, verified.
 //
 // Run it:
 //   node main.ts
